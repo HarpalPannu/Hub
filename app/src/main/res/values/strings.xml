@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Hub</string>
+    <string name="toggle">Toggle</string>
+    <string name="status_n_a">Status : N/A</string>
+    <string name="start_monitoring">Start Monitoring</string>
+    <string name="stop_monitoring">Stop Monitoring</string>
+</resources>
